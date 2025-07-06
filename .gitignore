@@ -1,0 +1,22 @@
+# Ignorar claves y archivos sensibles
+*.pem
+.env
+*.env
+config/
+secrets/
+credentials/
+__pycache__/
+*.pyc
+*.sqlite3
+
+# Archivos de Docker (si lo deseas)
+docker-compose.override.yml
+
+# Entorno virtual
+venv/
+env/
+ENV/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db

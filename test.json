@@ -1,0 +1,29 @@
+{
+    "conductor": {
+        "nombre": "",
+        "apellidos": "",
+        "dni": "",
+        "telefono": "",
+        "tipo_vehiculo": "",
+        "placa": ""
+    },
+    "reporte_somnolencia": {
+        "parpadeos": 13,
+        "bostezos": 0,
+        "cabeceos": 0,
+        "eventos_criticos": [
+            "microsueño leve (Ojos cerrados 5 a 7segundos - 5.3 segundos)",
+            "parpadeo prolongado (Ojos cerrados 3 a 5 segundos - 4.6 segundos)",
+            "microsueño leve (Ojos cerrados 5 a 7segundos - 5.7 segundos)"
+        ],
+        "videos": [
+            "evento_somnolencia_20250526_050607.mp4",
+            "evento_somnolencia_20250526_050636.mp4"
+        ],
+        "url_videos": [
+            "https://videos-somnolencia-diego.s3.amazonaws.com/evento_somnolencia_20250526_050607.mp4",
+            "https://videos-somnolencia-diego.s3.amazonaws.com/evento_somnolencia_20250526_050636.mp4"
+        ]
+    },
+    "fecha_generacion": "2025-05-26 05:06:59"
+}
